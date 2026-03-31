@@ -6,7 +6,7 @@ I'm a **Web Developer**, passionate about building real world projects, solving 
 
 ## Tools & Tech I Work With
 
-` JavaScript ` ` Python ` ` Express.js ` ` React ` ` PostgreSQL ` ` Git & GitHub `
+`JavaScript` `TypeScript` `Python` `React` `Express.js` `PostgreSQL` `Prisma` `Git & GitHub`
 
 ---
 
