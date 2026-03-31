@@ -1,6 +1,6 @@
 # Hi, I'm Muzhgan Shams 👋
 
-I'm a **Web Developer**, passionate about building real world projects, solving problems, working with data, and how technology is reshaping the world.
+I'm a **Full Stack Web Developer**, passionate about building real world projects, solving problems, working with data, and how technology is reshaping the world.
 
 ---
 
